@@ -12,7 +12,9 @@ https://cdnjs.com/ - каталог скриптов с возможностью
 ### jQuery
 
 - http://jquery.page2page.ru/index.php - клевый онлайн справочник по jQuery на русском
-- http://jquerymobile.com/ , https://github.com/jquery/jquery-mobile  - jQuery Mobile   
+- http://jquerymobile.com/ , https://github.com/jquery/jquery-mobile  - jQuery Mobile
+
+- http://dbpas.github.io/dbpasCarousel/ - очень легковесная карусель на jQuery   
 
 ###  Фреймворки 
 

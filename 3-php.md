@@ -25,6 +25,7 @@
 - http://www.wolfcms.org/ , https://ru.wikipedia.org/wiki/Wolf_CMS - WolfCMS
 - http://www.nibbleblog.com/ , http://havalite.com/ , http://www.queness.com/post/14579/6-lightweight-flexible-php-cms
 - http://processwire.com/ , https://anchorcms.com/ , http://flamenet.github.io/FlameCMS/ , https://github.com/Floxim/floxim
+- http://redaxscript.com/
 - https://github.com/ilosuna/phpsqlitecms     
 - http://www.gpeasy.com/                                               
 - http://opensolution.org/home.html - польский разработчик Quick.Cart и Quick.CMS 

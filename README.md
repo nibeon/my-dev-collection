@@ -1,5 +1,8 @@
 # my-dev-collection
-My collection of tools, plugins, modules, frameworks and others.
+
+My collection of (not mine) interesting tools, plugins, modules, frameworks and others.
+
+*p.S. For personal use*
 
 # Моя коллекция полезностей и интересностей разработки
 

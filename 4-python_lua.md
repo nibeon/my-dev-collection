@@ -38,8 +38,7 @@
 
 ### Panda3D
 
--
-
+- http://panda3d.org.ru/
 
 # Lua
 

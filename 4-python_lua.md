@@ -21,6 +21,8 @@
 
 ## gamedev на Python
 
+- http://pythonhosted.org/arcade/index.html - The Python Arcade Library 
+
 ### PyGame
 
 - http://www.pygame.org/hifi.html - Pygame
